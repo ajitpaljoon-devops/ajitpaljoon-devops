@@ -194,6 +194,7 @@ flowchart TB
     HUB --> S2
     HUB --> S3
 ```
+---
 
 ## 🔄 CI/CD Pipeline Automation
 
