@@ -14,14 +14,14 @@
 
 ## 🚀 About Me
 
-* ☁️ Cloud & DevOps Engineer
-* 🏗️ Experienced in **Infrastructure as Code using Terraform**
-* ☁️ Working with **Microsoft Azure Infrastructure**
-* 🔄 Building and managing **CI/CD pipelines**
-* 🌐 Strong knowledge of **Cloud Networking & Infrastructure**
-* 🔐 Focused on **Security, Scalability & High Availability**
-* 🤖 Interested in **Automation and DevSecOps**
-* 📚 Continuously learning new Cloud & DevOps technologies
+- ☁️ Cloud & DevOps Engineer
+- 🏗️ Experienced in **Infrastructure as Code using Terraform**
+- ☁️ Working with **Microsoft Azure Infrastructure**
+- 🔄 Building and managing **CI/CD pipelines**
+- 🌐 Strong knowledge of **Cloud Networking & Infrastructure**
+- 🔐 Focused on **Security, Scalability & High Availability**
+- 🤖 Interested in **Automation and DevSecOps**
+- 📚 Continuously learning new Cloud & DevOps technologies
 
 ---
 
@@ -61,29 +61,19 @@
 
 `VNet` • `VNet Peering` • `Hub & Spoke` • `NSG` • `ASG` • `DNS` • `Load Balancing` • `Application Gateway` • `Azure Firewall` • `VPN Gateway` • `ExpressRoute`
 
+---
+
 ## 📌 Featured Projects
-...
-### 🔄 CI/CD Pipeline Automation
-...
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ajitpal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajitpaljoon-devops&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitpaljoon-devops&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-...
 ### 🏗️ Azure Infrastructure Automation with Terraform
 
 Automated Azure infrastructure deployment using reusable Terraform modules.
 
-**Technologies:**
+**Technologies:**  
 `Azure` `Terraform` `IaC` `Networking`
 
 **Resources:**
+
 - ☁️ Resource Groups
 - 🌐 VNets & Subnets
 - 🔐 NSGs & ASGs
@@ -97,10 +87,11 @@ Automated Azure infrastructure deployment using reusable Terraform modules.
 
 Designed a scalable and secure Azure network architecture using the Hub & Spoke model.
 
-**Technologies:**
+**Technologies:**  
 `Azure` `VNet Peering` `Azure Firewall` `Private Connectivity`
 
 **Key Components:**
+
 - 🏢 Hub VNet
 - 🏠 Spoke VNets
 - 🔥 Azure Firewall
@@ -116,6 +107,19 @@ Designed automated CI/CD workflows for application and infrastructure deployment
 **Workflow:**
 
 `Code` → `Build` → `Test` → `Terraform Plan` → `Terraform Apply` → `Deployment`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ajitpal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajitpaljoon-devops&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitpaljoon-devops&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
 ---
 
 ## 🐍 Contribution Snake
@@ -125,6 +129,9 @@ Designed automated CI/CD workflows for application and infrastructure deployment
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/ajitpaljoon-devops/ajitpaljoon-devops/output/github-contribution-grid-snake.svg)
 
 </div>
+
+---
+
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajit-pal-82560621)
