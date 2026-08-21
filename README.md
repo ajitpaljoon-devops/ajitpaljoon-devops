@@ -50,6 +50,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 `Linux` • `Ubuntu` • `Windows Server`
 
@@ -107,18 +108,25 @@ Designed automated CI/CD workflows for application and infrastructure deployment
 `Code` → `Build` → `Test` → `Terraform Plan` → `Terraform Apply` → `Deployment`
 
 ---
-
 ## 📊 GitHub Stats
 
-![Ajitpal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajitpaljoon-devops&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitpaljoon-devops&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ajitpaljoon-devops&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitpaljoon-devops&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/ajitpaljoon-devops/ajitpaljoon-devops/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ajitpaljoon-devops/ajitpaljoon-devops/output/github-contribution-grid-snake.svg" />
+
+</p>
 
 ---
 
