@@ -10,14 +10,13 @@
 
 ## 🚀 About Me
 
-- ☁️ Cloud & DevOps Engineer
-- 🏗️ Infrastructure as Code using Terraform
-- ☁️ Microsoft Azure Infrastructure
-- 🔄 CI/CD Automation
-- 🌐 Cloud Networking & Infrastructure
-- 🔐 Security, Scalability & High Availability
-- 🤖 Automation & DevSecOps
-- 📚 Continuously learning Cloud & DevOps technologies
+- ☁️ Cloud & DevOps Engineer focused on Microsoft Azure
+- 🏗️ Designing and automating Azure infrastructure using Terraform
+- 🔄 Building CI/CD pipelines for application and infrastructure deployment
+- 🌐 Experienced in Azure networking, Hub & Spoke architecture and connectivity
+- 🔐 Focused on security, scalability, reliability and high availability
+- 🤖 Passionate about automation, Infrastructure as Code and DevSecOps
+- 📚 Continuously learning and building with modern Cloud & DevOps technologies
 
 ---
 
