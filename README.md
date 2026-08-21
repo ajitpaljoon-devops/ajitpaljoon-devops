@@ -123,10 +123,9 @@ Designed automated CI/CD workflows for application and infrastructure deployment
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/ajitpaljoon-devops/ajitpaljoon-devops/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/ajitpaljoon-devops/ajitpaljoon-devops/gh-pages/github-contribution-grid-snake.svg" />
 
 </p>
-
 ---
 
 ## 🤝 Let's Connect
