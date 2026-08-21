@@ -116,7 +116,15 @@ Designed automated CI/CD workflows for application and infrastructure deployment
 **Workflow:**
 
 `Code` → `Build` → `Test` → `Terraform Plan` → `Terraform Apply` → `Deployment`
+---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ajitpaljoon-devops/ajitpaljoon-devops/output/github-contribution-grid-snake.svg)
+
+</div>
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajit-pal-82560621)
