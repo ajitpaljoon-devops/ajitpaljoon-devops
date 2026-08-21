@@ -11,15 +11,6 @@
 </div>
 
 ---
-# 👋 Hi, I'm Ajitpal Joon
-
-### ☁️ Cloud & DevOps Engineer | Azure | Terraform | CI/CD 🚀
-
-💻 Cloud & DevOps professional with strong experience in **Cloud Infrastructure, Networking, Automation and Infrastructure as Code**.
-
-☁️ Microsoft Azure | 🏗️ Terraform | 🔄 CI/CD | 🐳 Docker | ☸️ Kubernetes | 🐙 Git & GitHub
-
----
 
 ## 🚀 About Me
 
@@ -71,7 +62,20 @@
 `VNet` • `VNet Peering` • `Hub & Spoke` • `NSG` • `ASG` • `DNS` • `Load Balancing` • `Application Gateway` • `Azure Firewall` • `VPN Gateway` • `ExpressRoute`
 
 ## 📌 Featured Projects
+...
+### 🔄 CI/CD Pipeline Automation
+...
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ajitpal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajitpaljoon-devops&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitpaljoon-devops&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+...
 ### 🏗️ Azure Infrastructure Automation with Terraform
 
 Automated Azure infrastructure deployment using reusable Terraform modules.
