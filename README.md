@@ -76,51 +76,42 @@
 
 Automated Azure infrastructure deployment using reusable Terraform modules.
 
-**Infrastructure includes:**
+**Technologies:**
+`Azure` `Terraform` `IaC` `Networking`
 
-`Resource Groups` • `VNets` • `Subnets` • `NSGs` • `Public IPs` • `NICs` • `Virtual Machines` • `VNet Peering`
-
----
-
-### 🔄 CI/CD Pipeline Automation
-
-Building automated CI/CD pipelines for application and infrastructure deployment.
-
-**Focus Areas:**
-
-`Build` → `Test` → `Terraform Plan` → `Terraform Apply` → `Deployment`
+**Resources:**
+- ☁️ Resource Groups
+- 🌐 VNets & Subnets
+- 🔐 NSGs & ASGs
+- 🌍 Public IPs
+- 🖥️ Virtual Machines
+- 🔗 VNet Peering
 
 ---
 
 ### ☁️ Azure Hub & Spoke Architecture
 
-Designing scalable and secure Azure network architecture using the **Hub & Spoke model**.
+Designed a scalable and secure Azure network architecture using the Hub & Spoke model.
 
-**Focus Areas:**
+**Technologies:**
+`Azure` `VNet Peering` `Azure Firewall` `Private Connectivity`
 
-`Centralized Connectivity` • `Security` • `VNet Peering` • `Azure Firewall` • `Private Connectivity`
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+**Key Components:**
+- 🏢 Hub VNet
+- 🏠 Spoke VNets
+- 🔥 Azure Firewall
+- 🔗 VNet Peering
+- 🔐 Private Connectivity
 
 ---
 
-## 🎯 Currently Learning
+### 🔄 CI/CD Pipeline Automation
 
-☁️ Advanced Azure Architecture
-🏗️ Advanced Terraform
-🔄 GitHub Actions
-🐳 Docker
-☸️ Kubernetes
-🔐 DevSecOps
-📈 Monitoring & Observability
+Designed automated CI/CD workflows for application and infrastructure deployments.
 
----
+**Workflow:**
+
+`Code` → `Build` → `Test` → `Terraform Plan` → `Terraform Apply` → `Deployment`
 
 ## 🤝 Let's Connect
 
