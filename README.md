@@ -178,24 +178,97 @@ Designed and automated Azure infrastructure using **reusable Terraform modules**
 
 ## ☁️ Azure Hub & Spoke Architecture
 
-Designed a scalable Azure network architecture based on the **Hub & Spoke model**.
+Designed a scalable and secure Azure network architecture using the **Hub & Spoke model**.
 
 ### Architecture
 
+```mermaid
+flowchart TB
+    HUB["🏢 HUB VNet<br/>🔥 Azure Firewall<br/>🔐 VPN / ExpressRoute<br/>⚙️ Shared Services"]
+
+    S1["🏠 SPOKE 1<br/>📱 Applications<br/>🖥️ VMs"]
+    S2["🏠 SPOKE 2<br/>💾 Data<br/>🗄️ Storage"]
+    S3["🏠 SPOKE 3<br/>🧪 Development<br/>⚙️ Testing"]
+
+    HUB --> S1
+    HUB --> S2
+    HUB --> S3
+```
+
+## 🔄 CI/CD Pipeline Automation
+
+Designed a CI/CD workflow to automate application and infrastructure deployment using GitHub Actions and Terraform.
+
+### 🚀 Pipeline Workflow
+
 ```text
-                    ┌───────────────────┐
-                    │    HUB VNet       │
-                    │                   │
-                    │ Azure Firewall    │
-                    │ VPN / ER Gateway  │
-                    │ Shared Services   │
-                    └─────────┬─────────┘
-                              │
-                 ┌────────────┼────────────┐
-                 │            │            │
-                 ▼            ▼            ▼
-            ┌─────────┐  ┌─────────┐  ┌─────────┐
-            │ Spoke 1 │  │ Spoke 2 │  │ Spoke 3 │
-            │         │  │         │  │         │
-            │  Apps   │  │  Data   │  │  Dev    │
-            └─────────┘  └─────────┘  └─────────┘
+Code Push
+    ↓
+GitHub Repository
+    ↓
+GitHub Actions
+    ↓
+Build & Validate
+    ↓
+Terraform Init
+    ↓
+Terraform Plan
+    ↓
+Terraform Apply
+    ↓
+Azure Infrastructure
+```
+
+### 🛠️ Technologies
+
+`Git` `GitHub` `GitHub Actions` `Terraform` `Microsoft Azure`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ajitpaljoon-devops&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitpaljoon-devops&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ajitpaljoon-devops/ajitpaljoon-devops/gh-pages/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ajit-pal-82560621">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/ajitpaljoon-devops">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:ajitpal.joon@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+### 🚀 Keep Learning • Keep Automating • Keep Building
+
+> **"Automate Everything. Build Smart. Deploy Faster."** ☁️🚀
+
+⭐ If you find my repositories useful, consider giving them a **star**!
